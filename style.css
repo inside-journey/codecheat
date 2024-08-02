@@ -1,0 +1,44 @@
+table, td, th {
+  border: 2px solid #343534;
+  font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
+  text-align: left;
+  font-size: 18px;
+  margin: 0 auto;
+  width: auto;
+  padding: 5px;
+  
+}
+h1 {
+	text-align: center;
+	font-size: 40px;
+	background-color: darkmagenta;
+	color: chartreuse;	
+}
+
+body {
+	background-color: darkkhaki;
+}
+
+.navigation {
+	text-align: left;
+	padding-right: 2px 20px 2px 0; 
+	margin-right: 40px;
+	font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, "sans-serif";
+}
+
+.code {
+	font-family: monospace;
+	color: cadetblue;
+	
+}
+h2 {
+	font-family: Helvetica, Arial, "sans-serif";
+	background-color: beige;
+	text-align: center;
+}
+
+
+.code:hover {
+	background-color: chartreuse;
+}
+
